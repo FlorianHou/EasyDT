@@ -1,0 +1,86 @@
+{
+    "_id": null,
+    "templateName": "Template_Sub_10001",
+    "templateId": null,
+    "description": null,
+    "componentName": "Sub_10001",
+    "createDate": null,
+    "productionDate": null,
+    "installationDate": null,
+    "uninstallationDate": null,
+    "nextMaintenanceDate": null,
+    "lastMaintenanceDate": null,
+    "componentStatus": null,
+    "status": "Template",
+    "metaData": {
+        "reseller": null,
+        "url": null
+    },
+    "3Dmodel": {
+        "type": null,
+        "data": null
+    },
+    "child": [
+        {
+            "_id": null,
+            "componentName": "Submount_10001",
+            "templateName": null,
+            "templateId": null,
+            "transform": [
+                1,
+                0,
+                0,
+                -2.61606354167237,
+                0,
+                1,
+                0,
+                2.29310767039083,
+                0,
+                0,
+                1,
+                9.99999999999545,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "_id": null,
+            "componentName": "L375P70MLD",
+            "templateName": null,
+            "templateId": null,
+            "transform": [
+                1,
+                0,
+                0,
+                -3.91606354167237,
+                0,
+                1,
+                0,
+                5.29310767039083,
+                0,
+                0,
+                1,
+                1.49999999999955,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "location_id": null,
+    "workingTime": null,
+    "relevantData": [
+        {
+            "_id": null
+        }
+    ],
+    "sensorData": [
+        {
+            "_id": null
+        }
+    ],
+    "properties": {}
+}

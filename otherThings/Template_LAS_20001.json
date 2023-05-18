@@ -1,0 +1,146 @@
+{
+    "_id": null,
+    "templateName": "Template_LAS_20001",
+    "templateId": null,
+    "description": null,
+    "componentName": "LAS_20001",
+    "createDate": null,
+    "productionDate": null,
+    "installationDate": null,
+    "uninstallationDate": null,
+    "nextMaintenanceDate": null,
+    "lastMaintenanceDate": null,
+    "componentStatus": null,
+    "status": "Template",
+    "metaData": {
+        "reseller": null,
+        "url": null
+    },
+    "3Dmodel": {
+        "type": null,
+        "data": null
+    },
+
+    "child": [
+        {
+            "_id": null,
+            "componentName": "LA1116-A",
+            "templateName": null,
+            "templateId": null,
+            "transform": [
+                1,
+                0,
+                0,
+                -5.21996389179593,
+                0,
+                1,
+                0,
+                3.01051649160506,
+                0,
+                0,
+                1,
+                2.52999999999864,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "_id": null,
+            "componentName": "LD2746",
+            "templateName": null,
+            "templateId": null,
+            "transform": [
+                1,
+                0,
+                0,
+                -1.12199638917959,
+                0,
+                1,
+                0,
+                3.01051649160507,
+                0,
+                0,
+                1,
+                2.52999999999864,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "_id": null,
+            "componentName": "LD2746",
+            "templateName": null,
+            "templateId": null,
+            "transform": [
+                1,
+                0,
+                0,
+                -1.59923165315065,
+                0,
+                1,
+                0,
+                3.01051649160507,
+                0,
+                0,
+                1,
+                2.52999999999864,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "_id": null,
+            "componentName": "Sub_10001",
+            "templateName": null,
+            "templateId": null,
+            "transform": [
+                1,
+                0,
+                0,
+                2.39609964987644,
+                0,
+                1,
+                0,
+                -2.28259117878577,
+                0,
+                0,
+                1,
+                1.02999999999909,
+                0,
+                0,
+                0,
+                1
+            ]
+        }
+    ],
+    "location_id": null,
+    "workingTime": null,
+    "relevantData": [
+        {
+            "_id": null
+        }
+    ],
+    "sensorData": [
+        {
+            "_id": null
+        }
+    ],
+    "properties": {
+        "Opitcal_Properties": {
+            "Optical_Power_Target": {
+                "Value": "100",
+                "Unit": "mW"
+            },
+            "Optical_Power": {
+                "Value": "None",
+                "Unit": "mW"
+            }
+        }
+    }
+}

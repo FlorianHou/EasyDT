@@ -1,0 +1,45 @@
+{
+    "_id": null,
+    "templateName": "BaseTemplate",
+    "templateId": null,
+    "description": null,
+    "componentName": null,
+    "createDate": null,
+    "productionDate": null,
+    "installationDate": null,
+    "uninstallationDate": null,
+    "nextMaintenanceDate": null,
+    "lastMaintenanceDate": null,
+    "componentStatus": null,
+    "status": "Template",
+    "metaData": {
+        "reseller": null,
+        "url": null
+    },
+    "3Dmodel": {
+        "type": null,
+        "data": null
+    },
+    "child": [
+        {
+            "_id": null,
+            "componentName":null,
+            "templateName":null,
+            "templateId":null,
+            "transform": []
+        }
+    ],
+    "location_id": null,
+    "workingTime": null,
+    "relevantData": [
+        {
+            "_id": null
+        }
+    ],
+    "sensorData": [
+        {
+            "_id": null
+        }
+    ],
+    "properties": {}
+}
